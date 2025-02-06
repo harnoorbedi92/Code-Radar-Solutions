@@ -7,4 +7,5 @@ int main(){
     printf("Name: %s\n",str1);
     printf("Age: %d\n",x);
     prinf("Hobby: %s\n",str2);
+    return 0;
 }
