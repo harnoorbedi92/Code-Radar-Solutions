@@ -6,6 +6,6 @@ int main(){
     scanf("%s %d %s",&str1,&x,&str2);
     printf("Name: %s",str1);
     printf("Age: %d",x);
-    prinf("Hobby: %str2",str2);
+    prinf("Hobby: %s",str2);
     return 0;
 }
