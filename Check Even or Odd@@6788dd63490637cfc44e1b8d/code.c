@@ -5,7 +5,7 @@ int main(){
     if(n%2==0){
         printf(" ");
     }
-    else{
+ else{
         print(" ");
     }
     return 0;
