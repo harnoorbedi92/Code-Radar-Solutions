@@ -5,7 +5,7 @@ int main(){
     if(a>b && a>c){
         print("%d",a);
     }
-     else if(b>c && b>c){
+     else if(b>a && b>c){
         print("%d",b);
      }
      else{
