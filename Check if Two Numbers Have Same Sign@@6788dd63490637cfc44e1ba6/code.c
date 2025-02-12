@@ -5,7 +5,7 @@ int main(){
     if(n>0 || m>0 ){
         printf("Same Sign");
     }
-    else if (n<0||m<0){
+    else if (n<0 || m<0){
         printf("Same Sign");
     }
     return 0;
