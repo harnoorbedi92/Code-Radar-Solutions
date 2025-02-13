@@ -5,7 +5,17 @@ int main(){
     if(ch='A'){
         printf("Excellent");
     }
-
-    
+    else if(ch='B'){
+        printf("Good");
+    }
+    else if(ch='C'){
+        printf("Average");
+    }
+    if(ch='D'){
+        printf("Below Average");
+    }
+    else{
+        printf("Fail");
+    }
     return 0;
 }
