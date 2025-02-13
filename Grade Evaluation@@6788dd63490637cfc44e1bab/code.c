@@ -1,9 +1,10 @@
 #include<stdio.h>
 int main(){
     char ch='A','B','C','D','F';
-    scanf("%d %d",&a,&b);
+    scanf("%c %c %c %c %c",&A,&B,&C,&D,&F);
     if(ch='A'){
         printf("Excellent");
+       
     }
     else if(ch='B'){
         printf("Good");
