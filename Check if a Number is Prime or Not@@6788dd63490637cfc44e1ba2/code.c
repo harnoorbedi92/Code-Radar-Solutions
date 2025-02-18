@@ -11,11 +11,9 @@ int main(){
         }
         if(is Prime)
         printf("Prime");
-
-    }
-    else{
+    else
         printf("NotPrime");
-    }
+    
     return 0;
 
 }
