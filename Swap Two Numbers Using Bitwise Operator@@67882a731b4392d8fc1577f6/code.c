@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 int main() {
-    int a,b ;
+    int a,c ;
     a = a ^ b; 
     b = a ^ b;  
-    a = a ^ b;  
-    printf(" %d ", a);
+    c = a ^ b;  
+    printf(" %d ", c);
 
     return 0;
 }
