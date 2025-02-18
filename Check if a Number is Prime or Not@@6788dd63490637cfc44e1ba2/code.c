@@ -2,11 +2,19 @@
 int main(){
     int n;
     sacnf("%d",&n);
-    if(n%1>=0 && n%n==0){
+    if(n<=1){
+        printf("not Prime");
+    }
+    for(i=2;i*i<=n,i++){
+        if(a%i==0){
+
+        }
+        if(is Prime)
         printf("Prime");
+
     }
     else{
-        printf("Not Prime");
+        printf("NotPrime");
     }
     return 0;
 
