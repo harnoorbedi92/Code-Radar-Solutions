@@ -3,7 +3,7 @@ int main(){
     int n,isPrime=1;
     sacnf("%d",&n);
     if(n<=1){
-        printf("not Prime");
+        printf("Not Prime");
     }
     for(i=2;i*i<=n;i++){
         if(a%i==0){
@@ -15,7 +15,7 @@ int main(){
         if(is Prime)
         printf("Prime");
     else
-        printf("NotPrime");
+        printf("Not Prime");
     
     return 0;
 
