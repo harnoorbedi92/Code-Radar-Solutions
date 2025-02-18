@@ -9,6 +9,7 @@ int main(){
         if(a%i==0){
 
         }
+    }
         if(is Prime)
         printf("Prime");
     else
