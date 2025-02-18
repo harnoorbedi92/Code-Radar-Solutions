@@ -6,14 +6,14 @@ int main(){
     if(n<=1){
         printf("Not Prime");
     }
-    for(int i=2;i*i<=n;i++){
+    for(int i=2; i*i<=n; i++){
         if(a%i==0){
             isPrime =0;
             break;
 
         }
     }
-        if(is Prime)
+        if(isPrime)
         printf("Prime");
     else
         printf("Not Prime");
