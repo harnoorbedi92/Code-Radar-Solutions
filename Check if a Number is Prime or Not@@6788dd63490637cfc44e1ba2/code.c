@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int n;
+    int n,isPrime=1;
     sacnf("%d",&n);
     if(n<=1){
         printf("not Prime");
