@@ -7,6 +7,7 @@ int main(){
     }
     for(i=2;i*i<=n,i++){
         if(a%i==0){
+            isPrime =0;
 
         }
     }
