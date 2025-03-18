@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int n;
     scanf("%d", &n);
@@ -14,9 +13,8 @@ int main() {
                 int temp = arr[j];
                 arr[j] = arr[j + 1];
                 arr[j + 1] = temp;
-                  printf("Sorted");
             }
         }
-
+    }
     return 0;
 }
