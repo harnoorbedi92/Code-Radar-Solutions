@@ -4,8 +4,8 @@ int main(){
     scanf("%d",&n);
     int arr[n];
     scanf("%d",&arr[n]);
-    int count 1 =0;
-    int count 2 =0;
+    int count1 =0;
+    int count2 =0;
     for(int i=0; i<=n;i++){
         if(n%2==0){
         }
