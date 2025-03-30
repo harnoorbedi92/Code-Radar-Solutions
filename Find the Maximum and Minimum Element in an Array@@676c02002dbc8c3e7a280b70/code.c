@@ -16,6 +16,6 @@ int main(){
             min++;
         }
     }
-    printf("%d %d"max,min);
+    printf("%d %d",max,min);
     return 0;
 }
