@@ -18,10 +18,6 @@ int main(){
             smax=arr[i];
         }
     }
-    else{
-            printf("-1");
-            }
-
     printf("%d",smax);
     return 0;
 }
