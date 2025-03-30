@@ -20,9 +20,10 @@ int main(){
              printf("%d",smax);
              break;
         }
+        
+        }
         else
         printf("-1");
-        }
     
    
     return 0;
