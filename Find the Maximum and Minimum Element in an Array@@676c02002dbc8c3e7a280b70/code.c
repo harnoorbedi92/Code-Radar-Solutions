@@ -4,7 +4,7 @@ int main(){
     scanf("%d",&n);
     int arr[n];
     for(int i=0;i<=n-1;i++){
-        sacnf("%d",arr[i]);
+        scanf("%d",arr[i]);
     }
     int max=0;
     int min=0;
