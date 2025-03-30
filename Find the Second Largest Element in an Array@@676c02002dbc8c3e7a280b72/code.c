@@ -12,6 +12,8 @@ int main(){
         if(arr[i]>max){
             max=arr[i];
         }
+        else
+        printf("-1");
     }
     for(int i=0;i<=n-1;i++){
         if(arr[i]!=max && arr[i]>smax){
